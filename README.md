@@ -1,4 +1,4 @@
-�# Invillia Bot Copilot Template
+# Invillia Bot Copilot Template
  
 ### How to Use This Template
  
