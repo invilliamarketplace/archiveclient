@@ -16,7 +16,7 @@ This project, Invillia Template Bot LLM, is designed to enhance team collaborati
  
 Below is the architecture diagram of the AI Management Bot, showcasing the components and their interactions within the Azure cloud environment:
  
-![AI Management Architecture](images/architecture.png)
+![AI Management Architecture](architecture.png)
  
 - **Users**: End users interacting with the bot through Microsoft Teams.
 - **Teams Admin Center**: Where the bot is registered and managed.
